@@ -11,7 +11,7 @@ HTML5를 지원하는 브라우저(대부분 브라우저)에서 기동 가능�
 
 조작은 방향키와 스페이스.
 
-세부내용은 doc폴더내 <a href="https://github.com/RedPeanut/hello-anipang/blob/master/doc/%EC%95%A0%EB%8B%88%ED%8C%A1%20%EA%B8%B0%ED%9A%8D%EC%95%88.ppt">애니팡기획안.ppt</a>를 참고하면 되겠다.
+세부내용은 doc폴더내 <a href="https://github.com/RedPeanut/RedPeanut.github.io/blob/master/doc/%EC%95%A0%EB%8B%88%ED%8C%A1%20%EA%B8%B0%ED%9A%8D%EC%95%88.ppt">애니팡기획안.ppt</a>를 참고하면 되겠다.
 
 동의없이 퍼가도 되며, 어차피 안에 엔진 코드는 나도 책에 있는 코드 카피한거다.
 공부할게 넘치고 쌓여있는 IT 업계 종사자가 이런 코드 쳐다볼 시간은 없을듯... 맘껏 보시길...
